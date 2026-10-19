@@ -15,3 +15,10 @@ Registro de cada cambio hecho con ayuda de la IA: qué cambió, por qué, cómo 
 - Archivos: .github/copilot-instructions.md.
 - Verificación: revisión del contenido y conteo de 38 reglas; no aplica ejecutar build ni test por ser un cambio de instrucciones.
 - Decisión del equipo: pendiente
+
+## 2026-10-19 17:12 · Etapa 0.0 · Propuesta de arquitectura modular
+- Cambio: se creó Doc/arquitectura.md con dos opciones de arquitectura modular .NET para servidor y cliente, con proyectos de src/, prueba xUnit en tests/, diagrama de dependencias, cumplimiento C-02 a C-06, comparación y recomendación.
+- Motivo: solicitud de definir alternativas de arquitectura alineadas con el enunciado, el análisis y los estándares del proyecto.
+- Archivos: Doc/arquitectura.md.
+- Verificación: revisión del archivo generado para confirmar que incluye todas las secciones y tablas pedidas.
+- Decisión del equipo: pendiente
