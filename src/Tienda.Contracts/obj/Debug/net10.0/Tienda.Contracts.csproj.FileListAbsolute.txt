@@ -1,0 +1,12 @@
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\bin\Debug\net10.0\Tienda.Contracts.deps.json
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\bin\Debug\net10.0\Tienda.Contracts.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\bin\Debug\net10.0\Tienda.Contracts.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\Tienda.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\Tienda.Contracts.AssemblyInfoInputs.cache
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\Tienda.Contracts.AssemblyInfo.cs
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\Tienda.Contracts.csproj.CoreCompileInputs.cache
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\Tienda.Contracts.sourcelink.json
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\Tienda.Contracts.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\refint\Tienda.Contracts.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\Tienda.Contracts.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Contracts\obj\Debug\net10.0\ref\Tienda.Contracts.dll

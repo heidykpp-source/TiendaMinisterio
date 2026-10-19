@@ -1,0 +1,16 @@
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\bin\Debug\net10.0\Tienda.Application.deps.json
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\bin\Debug\net10.0\Tienda.Application.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\bin\Debug\net10.0\Tienda.Application.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\bin\Debug\net10.0\Tienda.Domain.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\bin\Debug\net10.0\Tienda.Domain.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.csproj.AssemblyReference.cache
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.AssemblyInfoInputs.cache
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.AssemblyInfo.cs
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.csproj.CoreCompileInputs.cache
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.sourcelink.json
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.A.8EBB5F9B.Up2Date
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\refint\Tienda.Application.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\Tienda.Application.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Application\obj\Debug\net10.0\ref\Tienda.Application.dll

@@ -1,0 +1,12 @@
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfoInputs.cache
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfo.cs
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.sourcelink.json
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\refint\Tienda.Domain.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.deps.json
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\ref\Tienda.Domain.dll

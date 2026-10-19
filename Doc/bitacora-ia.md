@@ -22,3 +22,10 @@ Registro de cada cambio hecho con ayuda de la IA: qué cambió, por qué, cómo 
 - Archivos: Doc/arquitectura.md.
 - Verificación: revisión del archivo generado para confirmar que incluye todas las secciones y tablas pedidas.
 - Decisión del equipo: pendiente
+
+## 2026-10-19 17:44 · Etapa 3.1 · Estructura inicial de solución y proyectos
+- Cambio: se creó la solución `Tienda.slnx` y los proyectos base en `src/` y `tests/` según la arquitectura elegida (Contracts, Domain, Application, Infrastructure.Data, Api, Client y Tienda.Pruebas). Se configuraron las referencias entre proyectos conforme a `Doc/plan.md` y `Doc/arquitectura.md`. También se eliminaron clases de plantilla (`Class1.cs` y `UnitTest1.cs`) para dejar la estructura limpia.
+- Motivo: ejecutar la etapa 3.1 y dejar lista la base para las siguientes etapas sin lógica de negocio aún.
+- Archivos: Tienda.slnx; src/Tienda.Contracts/Tienda.Contracts.csproj; src/Tienda.Domain/Tienda.Domain.csproj; src/Tienda.Application/Tienda.Application.csproj; src/Tienda.Infrastructure.Data/Tienda.Infrastructure.Data.csproj; src/Tienda.Api/Tienda.Api.csproj; src/Tienda.Client/Tienda.Client.csproj; tests/Tienda.Pruebas/Tienda.Pruebas.csproj; eliminación de src/Tienda.Contracts/Class1.cs, src/Tienda.Domain/Class1.cs, src/Tienda.Application/Class1.cs, src/Tienda.Infrastructure.Data/Class1.cs y tests/Tienda.Pruebas/UnitTest1.cs.
+- Verificación: `dotnet build Tienda.slnx -m:1` (ok); `dotnet test Tienda.slnx` (ok, sin pruebas detectadas porque se eliminaron las plantillas).
+- Decisión del equipo: pendiente

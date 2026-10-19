@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tienda.Infrastructure.Data/1.0.0": {
+        "dependencies": {
+          "Tienda.Application": "1.0.0",
+          "Tienda.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Tienda.Infrastructure.Data.dll": {}
+        }
+      },
+      "Tienda.Application/1.0.0": {
+        "dependencies": {
+          "Tienda.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Tienda.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tienda.Domain/1.0.0": {
+        "runtime": {
+          "Tienda.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tienda.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tienda.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tienda.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
