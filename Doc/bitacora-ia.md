@@ -29,3 +29,10 @@ Registro de cada cambio hecho con ayuda de la IA: qué cambió, por qué, cómo 
 - Archivos: Tienda.slnx; src/Tienda.Contracts/Tienda.Contracts.csproj; src/Tienda.Domain/Tienda.Domain.csproj; src/Tienda.Application/Tienda.Application.csproj; src/Tienda.Infrastructure.Data/Tienda.Infrastructure.Data.csproj; src/Tienda.Api/Tienda.Api.csproj; src/Tienda.Client/Tienda.Client.csproj; tests/Tienda.Pruebas/Tienda.Pruebas.csproj; eliminación de src/Tienda.Contracts/Class1.cs, src/Tienda.Domain/Class1.cs, src/Tienda.Application/Class1.cs, src/Tienda.Infrastructure.Data/Class1.cs y tests/Tienda.Pruebas/UnitTest1.cs.
 - Verificación: `dotnet build Tienda.slnx -m:1` (ok); `dotnet test Tienda.slnx` (ok, sin pruebas detectadas porque se eliminaron las plantillas).
 - Decisión del equipo: pendiente
+
+## 2026-10-19 17:59 · Etapa 3.2 · Entidades de dominio e invariantes
+- Cambio: se implementó el núcleo de dominio en `Tienda.Domain` con entidades, value objects, abstracción base y excepción de regla de negocio para cubrir invariantes de R-02, R-03, R-04, R-05, R-09 y R-10. Se añadieron validaciones de precio > 0, stock no negativo, líneas obligatorias en compra/venta, cantidades/costos/precios positivos, desactivación lógica y restricción de venta para productos inactivos.
+- Motivo: ejecutar la etapa 3.2 de `Doc/plan.md` manteniendo la lógica de negocio en dominio, sin dependencias de DB ni API.
+- Archivos: src/Tienda.Domain/Abstractions/Entity.cs; src/Tienda.Domain/Exceptions/DomainRuleException.cs; src/Tienda.Domain/ValueObjects/DocumentoIdentidad.cs; src/Tienda.Domain/ValueObjects/Nit.cs; src/Tienda.Domain/Entities/Producto.cs; src/Tienda.Domain/Entities/Cliente.cs; src/Tienda.Domain/Entities/Proveedor.cs; src/Tienda.Domain/Entities/Compra.cs; src/Tienda.Domain/Entities/CompraLinea.cs; src/Tienda.Domain/Entities/Venta.cs; src/Tienda.Domain/Entities/VentaLinea.cs.
+- Verificación: `dotnet build D:\S5\Tienda\TiendaMinisterio` (ok). Resultado: compilación exitosa con advertencias preexistentes NU1903 en `Microsoft.OpenApi` del proyecto `Tienda.Api`.
+- Decisión del equipo: pendiente

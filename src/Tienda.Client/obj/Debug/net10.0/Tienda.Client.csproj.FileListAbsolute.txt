@@ -195,13 +195,8 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_frame
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Xml.XmlDocument.a9g0rcmdsf.wasm
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Xml.XmlSerializer.qf2wfirnar.wasm
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.q4t9czmx21.wasm
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.d93mwf3x7i.pdb
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.q7mskivdil.wasm
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.6gnb187n1g.pdb
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.zobuesonhj.wasm
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\WindowsBase.kdodnftcs0.wasm
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.zxhwjtv6sc.js
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.3ooqtejgnw.js
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.js.map
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.native.imnhyiqpc9.wasm
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.native.mx9wzm9o5h.js
@@ -222,7 +217,6 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_frame
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Net.WebClient.slrlxdowj9.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.4ff8kwpt5m.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Linq.AsyncEnumerable.83b0vda9i2.wasm.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.d93mwf3x7i.pdb.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Text.Json.ko6861pa2t.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Globalization.Extensions.k2aq4vrhx5.wasm.gz
@@ -278,7 +272,6 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_frame
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Transactions.onxwenk75g.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Web.HttpUtility.io9kow6kql.wasm.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.q7mskivdil.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Security.Cryptography.Encoding.ft3a0c4bxy.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Threading.Tasks.Extensions.eofj4l18ur.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Diagnostics.Tools.qbf2989yz5.wasm.gz
@@ -310,7 +303,6 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_frame
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Net.Primitives.qtmnjuvpei.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Collections.NonGeneric.jmc61l3lcr.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Net.Ping.1iktz2a5en.wasm.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.6gnb187n1g.pdb.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Threading.67mu17c7mg.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.ComponentModel.Annotations.f7cnzq6jny.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.24gi3o0b00.wasm.gz
@@ -326,7 +318,6 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_frame
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Data.DataSetExtensions.t3e4st6hq6.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.yrro7hsms1.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Reflection.Extensions.lomcreiowd.wasm.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.3ooqtejgnw.js.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Reflection.03d7jkimai.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.713r8kqjh5.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Runtime.InteropServices.2izr17v8cm.wasm.gz
@@ -361,7 +352,6 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_frame
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Primitives.9g1xy6wvar.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.8zg0sud5fw.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Xml.XPath.rjypl7uqj2.wasm.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.zobuesonhj.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Formats.Tar.ifi7eafa6j.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.ServiceProcess.xonmaxk25l.wasm.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\System.Reflection.TypeExtensions.avb8ys2ybr.wasm.gz
@@ -1118,12 +1108,6 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\u7m
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\1x9sexaws9-{0}-tjcz0u77k5-tjcz0u77k5.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\tw0rxv6cxx-{0}-tptq2av103-tptq2av103.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\c57xy0jvud-{0}-lfu7j35m59-lfu7j35m59.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\oz0r9i01rk-{0}-zobuesonhj-zobuesonhj.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\h5l0u1k2y2-{0}-6gnb187n1g-6gnb187n1g.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\cts8uoqfs4-{0}-q7mskivdil-q7mskivdil.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\1ngscb8ic1-{0}-d93mwf3x7i-d93mwf3x7i.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\jly41skb54-{0}-3ooqtejgnw-3ooqtejgnw.gz
-D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\xxcjszqm4e-{0}-8f8er9svu3-8f8er9svu3.gz
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\staticwebassets.build.json
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\staticwebassets.build.json.cache
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\staticwebassets.development.json
@@ -1134,3 +1118,19 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\Tienda.Client.
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\refint\Tienda.Client.dll
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\Tienda.Client.pdb
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\ref\Tienda.Client.dll
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.3u0oymqlhe.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.umszaczskt.wasm
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.0kxgrcmk53.wasm
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.kgtcgag2ln.pdb
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.v9v9c0npa2.js
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.3u0oymqlhe.pdb.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Client.umszaczskt.wasm.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.kgtcgag2ln.pdb.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.v9v9c0npa2.js.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\bin\Debug\net10.0\wwwroot\_framework\Tienda.Contracts.0kxgrcmk53.wasm.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\oz0r9i01rk-{0}-0kxgrcmk53-0kxgrcmk53.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\h5l0u1k2y2-{0}-kgtcgag2ln-kgtcgag2ln.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\cts8uoqfs4-{0}-umszaczskt-umszaczskt.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\1ngscb8ic1-{0}-3u0oymqlhe-3u0oymqlhe.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\jly41skb54-{0}-v9v9c0npa2-v9v9c0npa2.gz
+D:\S5\Tienda\TiendaMinisterio\src\Tienda.Client\obj\Debug\net10.0\compressed\xxcjszqm4e-{0}-7gozjuq142-7gozjuq142.gz
