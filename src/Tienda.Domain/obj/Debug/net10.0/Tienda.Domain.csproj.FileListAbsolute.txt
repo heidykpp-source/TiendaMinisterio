@@ -10,3 +10,15 @@ D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.dll
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.pdb
 D:\S5\Tienda\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\ref\Tienda.Domain.dll
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.deps.json
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.dll
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.pdb
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfoInputs.cache
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfo.cs
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.sourcelink.json
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.dll
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\refint\Tienda.Domain.dll
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.pdb
+C:\curso-copilot\TiendaMinisterio\TiendaMinisterio\src\Tienda.Domain\obj\Debug\net10.0\ref\Tienda.Domain.dll

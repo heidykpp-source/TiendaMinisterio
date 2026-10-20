@@ -35,4 +35,11 @@ Registro de cada cambio hecho con ayuda de la IA: qué cambió, por qué, cómo 
 - Motivo: ejecutar la etapa 3.2 de `Doc/plan.md` manteniendo la lógica de negocio en dominio, sin dependencias de DB ni API.
 - Archivos: src/Tienda.Domain/Abstractions/Entity.cs; src/Tienda.Domain/Exceptions/DomainRuleException.cs; src/Tienda.Domain/ValueObjects/DocumentoIdentidad.cs; src/Tienda.Domain/ValueObjects/Nit.cs; src/Tienda.Domain/Entities/Producto.cs; src/Tienda.Domain/Entities/Cliente.cs; src/Tienda.Domain/Entities/Proveedor.cs; src/Tienda.Domain/Entities/Compra.cs; src/Tienda.Domain/Entities/CompraLinea.cs; src/Tienda.Domain/Entities/Venta.cs; src/Tienda.Domain/Entities/VentaLinea.cs.
 - Verificación: `dotnet build D:\S5\Tienda\TiendaMinisterio` (ok). Resultado: compilación exitosa con advertencias preexistentes NU1903 en `Microsoft.OpenApi` del proyecto `Tienda.Api`.
-- Decisión del equipo: pendiente
+- Decisión del equipo: aceptado
+
+## 2026-10-20 17:02 · Etapa 3.3 · Pruebas unitarias de dominio
+- Cambio: se añadieron pruebas xUnit para las entidades del dominio en `tests/Tienda.Pruebas/Domain/EntidadesReglasTests.cs`, cubriendo reglas R-02, R-03, R-04, R-05, R-09 y R-10 con casos de éxito, error y bordes de stock, además de pruebas de igualdad para documentos y NIT.
+- Motivo: ejecutar la etapa 3.3 del plan y validar los criterios de aceptación de `Doc/análisis.md` sin depender de API ni base de datos.
+- Archivos: tests/Tienda.Pruebas/Domain/EntidadesReglasTests.cs.
+- Verificación: `dotnet test --nologo` ejecutado en la raíz del proyecto; resultado: 27 pruebas, 27 correctas, 0 errores. La salida incluye 1 advertencia NU1903 de `Microsoft.OpenApi` en `src/Tienda.Api`.
+- Decisión del equipo: aceptado

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Tienda.Domain/1.0.0": {
@@ -27,39 +27,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\japeg\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mgdia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Application\\Tienda.Application.csproj",
+      "projectUniqueName": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Application\\Tienda.Application.csproj",
       "projectName": "Tienda.Application",
-      "projectPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Application\\Tienda.Application.csproj",
-      "packagesPath": "C:\\Users\\japeg\\.nuget\\packages\\",
-      "outputPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Application\\obj\\",
+      "projectPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Application\\Tienda.Application.csproj",
+      "packagesPath": "C:\\Users\\mgdia\\.nuget\\packages\\",
+      "outputPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\japeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mgdia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Domain\\Tienda.Domain.csproj": {
-              "projectPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Domain\\Tienda.Domain.csproj"
+            "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Domain\\Tienda.Domain.csproj": {
+              "projectPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Domain\\Tienda.Domain.csproj"
             }
           }
         }
@@ -74,10 +68,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -95,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
