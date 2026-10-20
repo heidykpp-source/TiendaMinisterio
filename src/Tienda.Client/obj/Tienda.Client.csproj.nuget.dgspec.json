@@ -1,34 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj": {}
+    "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj": {}
   },
   "projects": {
-    "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj": {
+    "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj",
+        "projectUniqueName": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj",
         "projectName": "Tienda.Client",
-        "projectPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj",
-        "packagesPath": "C:\\Users\\mgdia\\.nuget\\packages\\",
-        "outputPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Client\\obj\\",
+        "projectPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Client\\Tienda.Client.csproj",
+        "packagesPath": "C:\\Users\\japeg\\.nuget\\packages\\",
+        "outputPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mgdia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\japeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj": {
-                "projectPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj"
+              "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj": {
+                "projectPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj"
               }
             }
           }
@@ -43,17 +48,16 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.7, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
@@ -65,16 +69,21 @@
               "target": "Package",
               "version": "[10.0.7, )"
             },
+            "Microsoft.DotNet.HotReload.WebAssembly.Browser": {
+              "target": "Package",
+              "version": "[10.0.203, )",
+              "autoReferenced": true
+            },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.7, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.7, )",
               "autoReferenced": true
             }
           },
@@ -92,7 +101,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[10.0.12, 10.0.12]"
+              "version": "[10.0.7, 10.0.7]"
             }
           ],
           "frameworkReferences": {
@@ -100,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -383,27 +392,32 @@
         }
       }
     },
-    "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj": {
+    "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj",
+        "projectUniqueName": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj",
         "projectName": "Tienda.Contracts",
-        "projectPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj",
-        "packagesPath": "C:\\Users\\mgdia\\.nuget\\packages\\",
-        "outputPath": "C:\\curso-copilot\\TiendaMinisterio\\TiendaMinisterio\\src\\Tienda.Contracts\\obj\\",
+        "projectPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Contracts\\Tienda.Contracts.csproj",
+        "packagesPath": "C:\\Users\\japeg\\.nuget\\packages\\",
+        "outputPath": "D:\\S5\\Tienda\\TiendaMinisterio\\src\\Tienda.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mgdia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\japeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -418,11 +432,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -440,7 +453,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -43,3 +43,10 @@ Registro de cada cambio hecho con ayuda de la IA: qué cambió, por qué, cómo 
 - Archivos: tests/Tienda.Pruebas/Domain/EntidadesReglasTests.cs.
 - Verificación: `dotnet test --nologo` ejecutado en la raíz del proyecto; resultado: 27 pruebas, 27 correctas, 0 errores. La salida incluye 1 advertencia NU1903 de `Microsoft.OpenApi` en `src/Tienda.Api`.
 - Decisión del equipo: aceptado
+
+## 2026-10-20 17:41 · Etapa 3.4 · Puertos y servicios de aplicación
+- Cambio: se definieron interfaces de repositorios y unidad de trabajo; se añadieron servicios de catálogos para SKU y documento/NIT únicos, desactivación y rechazo de eliminación de productos con movimientos, más el registro transaccional de ventas con validación previa de todas las líneas, precios del servidor y fecha obtenida de `TimeProvider`.
+- Motivo: ejecutar la etapa 3.4 de `Doc/plan.md` y cumplir los requisitos solicitados para las reglas R-01, R-06, R-07, R-09 y R-10 sin acoplar el núcleo a EF Core/SQLite.
+- Archivos: `src/Tienda.Application/Abstractions/IProductoRepository.cs`; `src/Tienda.Application/Abstractions/IClienteRepository.cs`; `src/Tienda.Application/Abstractions/IProveedorRepository.cs`; `src/Tienda.Application/Abstractions/IVentaRepository.cs`; `src/Tienda.Application/Abstractions/IUnitOfWork.cs`; `src/Tienda.Application/Catalogos/ProductoService.cs`; `src/Tienda.Application/Catalogos/ClienteService.cs`; `src/Tienda.Application/Catalogos/ProveedorService.cs`; `src/Tienda.Application/Ventas/LineaVentaSolicitada.cs`; `src/Tienda.Application/Ventas/VentaService.cs`; `Doc/bitacora-ia.md`.
+- Verificación: `dotnet build Tienda.slnx --nologo` correcto, 0 errores. Persisten 2 advertencias NU1903 preexistentes de `Microsoft.OpenApi` 2.0.0 en `src/Tienda.Api`. No se escribieron ni ejecutaron pruebas, según lo solicitado.
+- Decisión del equipo: aceptado
